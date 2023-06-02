@@ -10,6 +10,12 @@ body {
     font-family: 'Signika Negative', sans-serif;
 }
 
+nav-link active {
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 1em;
+}
+
 #title {
     color: #ffafcc
 }
