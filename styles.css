@@ -1,5 +1,12 @@
 body {
     background-color: #b8c0ff;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.navbar {
+    background-color: #b8c0ff;
+    font-family: 'Mulish', sans-serif;
     font-family: 'Signika Negative', sans-serif;
 }
 
