@@ -10,10 +10,10 @@ body {
     font-family: 'Signika Negative', sans-serif;
 }
 
-nav-link active {
+nav-link {
     font-family: 'Mulish', sans-serif;
     font-family: 'Signika Negative', sans-serif;
-    font-size: 1em;
+    font-size: 2em;
 }
 
 #title {
