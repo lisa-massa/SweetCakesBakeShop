@@ -4,16 +4,11 @@ body {
     font-family: 'Signika Negative', sans-serif;
 }
 
-.navbar {
+nav {
     background-color: #b8c0ff;
     font-family: 'Mulish', sans-serif;
     font-family: 'Signika Negative', sans-serif;
-}
-
-nav-item {
-    font-family: 'Mulish', sans-serif;
-    font-family: 'Signika Negative', sans-serif;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 #title {
