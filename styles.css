@@ -8,7 +8,8 @@ nav {
     background-color: #b8c0ff;
     font-family: 'Mulish', sans-serif;
     font-family: 'Signika Negative', sans-serif;
-    font-size: 3em;
+    font-size: 1.5em;
+    color: #3c096c
 }
 
 #title {
@@ -17,4 +18,8 @@ nav {
 
 footer {
     background-color: #ffd6ff;
+}
+
+.noDecorationUl {
+    list-style-type: none;
 }
